@@ -1,18 +1,3 @@
-// import people01 from "../assets/people01.png"
-// import people02 from "../assets/people02.png"
-// import people03 from "../assets/people03.png"
-// import facebook from "../assets/facebook.png"
-// import instagram from "../assets/instagram.png"
-// import linkedin from "../assets/linkedin.png"
-// import twitter from "../assets/twitter.png"
-// import airbnb from "../assets/airbnb.png"
-// import binance from "../assets/binance.png"
-// import coinbase from "../assets/coinbase.png"
-// import dropbox from "../assets/dropbox.png"
-// import send from "../assets/send.png"
-// import shield from "../assets/shield.png"
-// import star from "../assets/star.png"
-
 import {
   people01, people02, people03,
   facebook, instagram, linkedin, twitter,
